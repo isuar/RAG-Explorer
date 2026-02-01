@@ -65,7 +65,7 @@ When asked complex questions about a specific document, the system retrieves the
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/isuar/RAG-Explorer.git](https://github.com/isuar/RAG-Explorer.git)
+    git clone git clone https://github.com/isuar/RAG-Explorer.git
     ```
 2.  **Install dependencies**:
     ```bash
